@@ -1,0 +1,1 @@
+# mdn-mozilla-splash-page
